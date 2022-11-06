@@ -1,2 +1,4 @@
 # Project-25
-Project 25: Sentence Paraphrasing which aims to investigate the capability of various NLP techniques to identify paraphrasing. 
+Project about Sentence Paraphrasing that aims to investigate the capability of various NLP techniques to identify paraphrasing. 
+Name: Nhi Nguyen
+ID: Y69317605
